@@ -30,6 +30,8 @@ FORMS += \
 
 DISTFILES += \
     .gitignore \
+    LICENSE \
+    readme.md \
     resource.rc
 
 RC_FILE += resource.rc
